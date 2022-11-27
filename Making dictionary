@@ -1,0 +1,7 @@
+D1 = {"poach":"hunt",
+"relish":"taste",
+"exhort":"pressure",
+"lousy":"awful"}
+Print("ENTER YOUR WORD")
+n=input()
+Print(d1[n])
